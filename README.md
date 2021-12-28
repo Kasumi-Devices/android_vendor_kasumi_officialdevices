@@ -75,7 +75,7 @@ Codename: Mido
 
 Maintainer: [Rasyid Al Kautsar](https://t.me/AswLueEmang)
 
-Upstream: LineageOS
+Upstream: zeelog
 
 -----
 
