@@ -102,4 +102,15 @@ Upstream: Teos-Dev
 
 -----
 
+To add lunch combos for these devices at once, do commands like these;
+```bash
+source build/envsetup.sh
+for i in $(cat vendor/kasumi/officialdevices/list_backstage.txt)
+do
+add_lunch_combo kasumi_$i-userdebug
+done
+```
+
+-----
+
 Moveleft (M) 2021-2022 Project Kasumi. All Rights Reserved.
