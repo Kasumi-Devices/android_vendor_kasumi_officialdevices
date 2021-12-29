@@ -1,5 +1,6 @@
 cedric
 seed
+s2
 ocean
 santoni
 lava

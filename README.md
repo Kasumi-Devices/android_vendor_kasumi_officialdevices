@@ -24,6 +24,12 @@ Maintainer: [Beru Shinsetsu](https://t.me/WindowZ414)
 
 Upstream: Ahmet Çelik @ DevOtağ Open Source
 
+### [LeEco Le2](https://github.com/Kasumi-Devices/android_device_leeco_s2)
+
+Codename: S2
+
+Maintainer: [Rajat Prime](https://t.me/rajat_prime)
+
 ### [Motorola Moto G⁷ Power](https://github.com/Kasumi-Devices/android_device_motorola_ocean)
 
 Codename: Ocean
