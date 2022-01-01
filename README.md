@@ -34,7 +34,7 @@ Maintainer: [Rajat Prime](https://t.me/rajat_prime)
 
 Codename: Ocean
 
-Maintainer: [Ako-Ina](https://t.me/ako_ina)
+Maintainer: [Botan Yuukan](https://t.me/Botan_Yuukan)
 
 Upstream: hisoka_simp @ Project Sakura
 
