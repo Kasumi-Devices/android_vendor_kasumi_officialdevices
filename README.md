@@ -36,15 +36,7 @@ Codename: Ocean
 
 Maintainer: [Botan Yuukan](https://t.me/Botan_Yuukan)
 
-Upstream: hisoka_simp @ Project Sakura
-
-### [Xiaomi Redmi 4X](https://github.com/Kasumi-Devices/android_device_xiaomi_santoni)
-
-Codename: Santoni
-
-Maintainer: [キアリ (Ro. Kiari)](https://t.me/Krxyzn)
-
-Upstream: Jabiyeff Project
+Upstream: brvn0 @ Project Sakura
 
 ### [Xiaomi Redmi 9 & POCO M2 // Unified](https://github.com/Kasumi-Devices/android_device_xiaomi_lava)
 
@@ -58,6 +50,14 @@ Codename: LaVa
 Maintainer: [Soni Dharma](https://t.me/DreamersGo)
 
 Upstream: Redmi-MT6768
+
+### [Xiaomi Redmi 4X](https://github.com/Kasumi-Devices/android_device_xiaomi_santoni)
+
+Codename: Santoni
+
+Maintainer: [キアリ (Ro. Kiari)](https://t.me/Krxyzn)
+
+Upstream: Jabiyeff Project
 
 ### [Xiaomi Redmi 9C/9C NFC/9A/9 India & POCO C3 // Unified](https://github.com/Kasumi-Devices/android_device_xiaomi_garden)
 
@@ -79,9 +79,31 @@ Upstream: LineageOS
 
 Codename: Mido
 
-Maintainer: [Rasyid Al Kautsar](https://t.me/AswLueEmang)
+Maintainer: [Rasyid Al Kautsar](https://t.me/RasyidAlKautsar)
 
 Upstream: zeelog
+
+### [Xiaomi Mi MIX 2](https://github.com/Kasumi-Devices/android_device_xiaomi_chiron)
+
+Codename: Chiron
+
+Maintainer: Shreyas
+
+### [Samsung Galaxy A70 Snapdragon](https://github.com/Kasumi-Devices/android_device_samsung_a70q)
+
+Codename: A70Q
+
+Maintainer: [Aswin](https://t.me/therealdotA)
+
+Upstream: Haky86
+
+### [Xiaomi Redmi Note 7](https://github.com/Kasumi-Devices/android_device_xiaomi_lavender)
+
+Codename: Lavender
+
+Maintainer: [MooniTime](https://t.me/MooniTimeBich)
+
+Upstream: LineageOS
 
 -----
 
