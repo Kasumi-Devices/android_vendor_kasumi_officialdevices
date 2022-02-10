@@ -10,20 +10,6 @@ Maintainer: [Beru Shinsetsu](https://t.me/WindowZ414)
 
 Upstream: Nick @ Project Materium
 
-### [Android One 2nd Generation](https://github.com/Kasumi-Devices/android_device_google_seed)
-
-Target device: General Mobile 4G (gm4g_sprout)
-
-Additional devices;
-- General Mobile 5 (gm5_sprout)
-- General Mobile 5 d (gm5d_sprout)
-
-Codename: Seed
-
-Maintainer: [Beru Shinsetsu](https://t.me/WindowZ414)
-
-Upstream: Ahmet Çelik @ DevOtağ Open Source
-
 ### [LeEco Le2](https://github.com/Kasumi-Devices/android_device_leeco_s2)
 
 Codename: S2
@@ -88,14 +74,6 @@ Upstream: zeelog
 Codename: Chiron
 
 Maintainer: Shreyas
-
-### [Samsung Galaxy A70 Snapdragon](https://github.com/Kasumi-Devices/android_device_samsung_a70q)
-
-Codename: A70Q
-
-Maintainer: [Aswin](https://t.me/therealdotA)
-
-Upstream: Haky86
 
 ### [Xiaomi Redmi Note 7](https://github.com/Kasumi-Devices/android_device_xiaomi_lavender)
 
