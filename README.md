@@ -4,23 +4,25 @@
 
 ### [Motorola Moto G⁵](https://github.com/Kasumi-Devices/android_device_motorola_cedric)
 
+**This device has been dropped and won't be maintained officially as of v2.**
+
 Codename: Cedric
 
-Maintainer: [Beru Shinsetsu](https://t.me/WindowZ414)
+Maintainer: Beru Shinsetsu
 
-Upstream: Nick @ Project Materium
+Upstream: Nick @ droid-ng
 
 ### [LeEco Le2](https://github.com/Kasumi-Devices/android_device_leeco_s2)
 
 Codename: S2
 
-Maintainer: [Rajat Prime](https://t.me/rajat_prime)
+Maintainer: Rajat Prime
 
 ### [Motorola Moto G⁷ Power](https://github.com/Kasumi-Devices/android_device_motorola_ocean)
 
 Codename: Ocean
 
-Maintainer: [Botan Yuukan](https://t.me/Botan_Yuukan)
+Maintainer: Botan Yuukan
 
 Upstream: brvn0 @ Project Sakura
 
@@ -33,7 +35,7 @@ Additional devices;
 
 Codename: LaVa
 
-Maintainer: [Soni Dharma](https://t.me/DreamersGo)
+Maintainer: Soni Dharma
 
 Upstream: Redmi-MT6768
 
@@ -41,7 +43,7 @@ Upstream: Redmi-MT6768
 
 Codename: Santoni
 
-Maintainer: [キアリ (Ro. Kiari)](https://t.me/Krxyzn)
+Maintainer: Kiari
 
 Upstream: Jabiyeff Project
 
@@ -57,7 +59,7 @@ Additional devices;
 
 Codename: Garden
 
-Maintainer: [みかず (Ro. Mikazu)](https://t.me/mikazuuu07)
+Maintainer: Mikazu
 
 Upstream: LineageOS
 
@@ -65,7 +67,7 @@ Upstream: LineageOS
 
 Codename: Mido
 
-Maintainer: [Rasyid Al Kautsar](https://t.me/RasyidAlKautsar)
+Maintainer: Rasyid Al Kautsar
 
 Upstream: zeelog
 
@@ -79,38 +81,22 @@ Maintainer: Shreyas
 
 Codename: Lavender
 
-Maintainer: [MooniTime](https://t.me/MooniTimeBich)
+Maintainer: MooniTime
 
 Upstream: LineageOS
 
------
+### [Redmi SDM439 Line-up](https://github.com/Kasumi-Devices/android_device_xiaomi_mi439)
 
-## Backstage
-
-### [Vestel Venus V5 & Turk Telekom Venus V5 // Unified](https://github.com/Kasumi-Devices/android_device_vestel_teos)
-
-Target device: Vestel Venus V5 (Teos)
+Target devices;
+- Xiaomi Redmi 7A (Pine)
+- Xiaomi Redmi 8 (Olive)
 
 Additional devices;
-- Turk Telekom Venus V5 (TeosTT)
+- Xiaomi Redni 8A (OliveLite)
+- Xiaomi Redmi 8 Pro/Dual (OliveWood)
 
-Codename: Teos
+Codename: mi439
 
-Maintainer: [Beru Shinsetsu](https://t.me/WindowZ414)
+Maintainer: lostdir69/flasho
 
-Upstream: Teos-Dev
-
------
-
-To add lunch combos for these devices at once, do commands like these;
-```bash
-source build/envsetup.sh
-for i in $(cat vendor/kasumi/officialdevices/list_backstage.txt)
-do
-add_lunch_combo kasumi_$i-userdebug
-done
-```
-
------
-
-Moveleft (M) 2021-2022 Project Kasumi. All Rights Reserved.
+Upstream: Mi-SDM439
