@@ -85,18 +85,13 @@ Maintainer: MooniTime
 
 Upstream: LineageOS
 
-### [Redmi SDM439 Line-up](https://github.com/Kasumi-Devices/android_device_xiaomi_mi439)
+### [Redmi 7a ](https://github.com/Kasumi-Devices/android_device_xiaomi_pine)
 
 Target devices;
 - Xiaomi Redmi 7A (Pine)
-- Xiaomi Redmi 8 (Olive)
 
-Additional devices;
-- Xiaomi Redni 8A (OliveLite)
-- Xiaomi Redmi 8 Pro/Dual (OliveWood)
-
-Codename: mi439
+Codename: pine
 
 Maintainer: lostdir69/flasho
 
-Upstream: Mi-SDM439
+Upstream: DotOs
