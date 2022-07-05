@@ -85,13 +85,10 @@ Maintainer: MooniTime
 
 Upstream: LineageOS
 
-### [Redmi 7a ](https://github.com/Kasumi-Devices/android_device_xiaomi_pine)
+### [Redmi-sdm439](https://github.com/Kasumi-Devices/android_device_xiaomi_Mi439)
 
-Target devices;
-- Xiaomi Redmi 7A (Pine)
+Codename: Mi439
 
-Codename: pine
+Maintainer: lostdir69
 
-Maintainer: lostdir69/flasho
-
-Upstream: DotOs
+Upstream: Mi-thorium
